@@ -12,7 +12,7 @@ const CacheService = require('./services/cache');
 
 module.exports = (db, config) => {
 	const app = express();
-
+//1
 	// Services
 	const officeService = new OfficeService(db.offices, officeSchema, errors);
 	const loggerService = new LoggerService();
