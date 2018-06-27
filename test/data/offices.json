@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Scout, The",
+    "website": "http://something.com",
+    "address": "8547 Basil Plaza"
+  },
+  {
+    "id": 1,
+    "title": "Greenberg",
+    "website": "http://somethingelse.com",
+    "address": "80 Dwight Avenue"
+  },
+  {
+    "id": 2,
+    "title": "Just Bea (Bare Bea)",
+    "website": "http://andyeah.com",
+    "address": "5262 Cascade Trail"
+  }
+]

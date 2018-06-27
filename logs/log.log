@@ -1,0 +1,9 @@
+2018-06-13T01:27:37.465Z - [32minfo[39m: /offices GET
+2018-06-13T01:27:37.499Z - [32minfo[39m: /offices GET
+2018-06-13T01:27:37.506Z - [32minfo[39m: /offices/1 GET
+2018-06-13T01:27:37.547Z - [32minfo[39m: /offices/create POST
+ body: {"title":"Title","website":"https://www.tut.by","address":"Minsk"}
+2018-06-13T01:27:37.561Z - [32minfo[39m: /offices GET
+2018-06-13T01:27:37.568Z - [32minfo[39m: /offices GET
+2018-06-13T01:27:37.574Z - [32minfo[39m: /offices/update POST
+ body: {"id":0,"title":"Scout, The","website":"http://something.com","address":"Some address"}

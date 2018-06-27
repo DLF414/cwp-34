@@ -1,0 +1,11 @@
+2018-06-13T01:27:37.581Z - [32minfo[39m: /offices GET
+2018-06-13T01:27:37.582Z - [32minfo[39m: /offices GET FROM CACHE
+
+2018-06-13T01:27:37.590Z - [32minfo[39m: /offices GET
+2018-06-13T01:27:37.596Z - [32minfo[39m: /offices/delete POST
+ body: {"id":0,"title":"Scout, The","website":"http://something.com","address":"Some address"}
+2018-06-13T01:27:37.601Z - [32minfo[39m: /offices GET
+2018-06-13T01:27:37.601Z - [32minfo[39m: /offices GET FROM CACHE
+
+2018-06-13T01:27:37.607Z - [32minfo[39m: /offices/agents POST
+ body: {"id":3}
